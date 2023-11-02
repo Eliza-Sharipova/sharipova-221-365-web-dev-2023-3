@@ -1,0 +1,16 @@
+.header, .footer, .btn, .sidebar {
+    display: none;
+}
+
+body{
+    color: black;
+}
+
+.cards {
+    width: 100%;
+}
+
+.product-image {
+    display: block;
+    width: 100%;
+}
