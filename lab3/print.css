@@ -1,0 +1,17 @@
+.header, .footer, .btn, .sidebar {
+    display: none;
+}
+
+body{
+    color: black;
+}
+
+.cards {
+    width: 100%;
+}
+
+/* .card-img {
+    display: block;
+    width:min-content;
+} */
+
